@@ -27,6 +27,8 @@ Para desenvolver utilizei:
 * Sass
 * AngularJs
 
+para testar pode acessar [Demo List!](http://nathpaiva.com.br/ibuy/#/)
+
 ### Desenvolvido por:
 
 NathPaiva
